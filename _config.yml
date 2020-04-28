@@ -1,1 +1,10 @@
-remote_theme: pmarsceill/just-the-docs
+remote_theme: niklasweimann/just-the-docs
+
+plugins:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji
+- just-the-docs
+- jekyll-remote-theme
