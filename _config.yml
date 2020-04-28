@@ -1,5 +1,16 @@
 remote_theme: niklasweimann/just-the-docs
 
+markdown: kramdown
+heading_anchors: true
+
+relative_links:
+  enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "RxTelegram.Bot on GitHub":
+    - "//github.com/rxtelegram/rxtelegram.bot"
+
 plugins:
 - jekyll-github-metadata
 - jekyll-mentions
@@ -8,3 +19,4 @@ plugins:
 - jemoji
 - just-the-docs
 - jekyll-remote-theme
+- jekyll-relative-links

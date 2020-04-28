@@ -1,10 +1,10 @@
 version: '3'
 services:
     jekyll:
-        image: jekyll/jekyll:3.8.3
+        image: jekyll/jekyll:3.8.5
         environment:
             - JEKYILL_ENV=docker
-        command: jekyll serve --host 0.0.0.0 --drafts --config _config.yml --watch --livereload --baseurl "/"
+        command: jekyll serve --host 0.0.0.0 --drafts --config _config.yml --watch --livereload --force_polling
         volumes:
             - .:/srv/jekyll
             - ./vendor/bundle:/usr/local/bundle
