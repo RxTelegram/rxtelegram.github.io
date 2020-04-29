@@ -8,7 +8,7 @@ nav_order: 1
 # Quickstart Guide (Terminal)
 
 Hey 👋,
-thanks for using [RxTelegram.Bot](https://github.com/RxTelegram/RxTelegram.Bot). This quickstart guide will give you an easy 3 Steps Solution how you can get started with RxTelegram.Bot using your Terminal. Quickstart guides are also Available for Visual Studio or Rider.
+thanks for your interested in using [RxTelegram.Bot](https://github.com/RxTelegram/RxTelegram.Bot). This quickstart guide will give you an easy 3 steps solution how to get started with RxTelegram.Bot using your Terminal. __Quickstart guides are also available for Visual Studio and Rider.__
 
 ## 1. Bot Father
 
@@ -53,7 +53,7 @@ Just open up your Terminal in a new Folder and run the following commands.
 
 ## 3. Run your programm
 
-The last step is quid simple. Just Run it 😎
+The last step is quid simple. Just Run it!😎
 
 ```bash
 dotnet run

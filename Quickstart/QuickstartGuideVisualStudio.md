@@ -8,7 +8,7 @@ nav_order: 2
 # Quickstart Guide (Visual Studio)
 
 Hey 👋,
-thanks for using [RxTelegram.Bot](https://github.com/RxTelegram/RxTelegram.Bot). This quickstart guide will give you an easy 3 Steps Solution how you can get started with RxTelegram.Bot using Visual Studio. Quickstart guides are also Available for the Terminal or Rider.
+thanks for your interested in using [RxTelegram.Bot](https://github.com/RxTelegram/RxTelegram.Bot). This quickstart guide will give you an easy 3 steps solution how to get started with RxTelegram.Bot using your Terminal. __Quickstart guides are also available for the Terminal and Rider.__
 
 ## 1. Bot Father
 
