@@ -7,7 +7,7 @@ services:
         command: jekyll serve --host 0.0.0.0 --drafts --config _config.yml --watch --livereload --force_polling
         volumes:
             - .:/srv/jekyll
-            - ./vendor/bundle:/usr/local/bundle
+            - ./_vendor/bundle:/usr/local/bundle
 
         ports:
             - 4000:4000
