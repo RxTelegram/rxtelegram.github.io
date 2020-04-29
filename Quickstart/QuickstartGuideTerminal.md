@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Quickstart terminal
-parent: Quickstart overview
-nav_order: 2
+title: Quickstart Terminal
+parent: Quickstart Overview
+nav_order: 1
 ---
 
 # Quickstart Guide (Terminal)

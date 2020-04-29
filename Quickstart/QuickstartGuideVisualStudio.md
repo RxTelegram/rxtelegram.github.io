@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Quickstart Visual Studio
-parent: Quickstart overview
+parent: Quickstart Overview
 nav_order: 2
 ---
 
