@@ -1,5 +1,13 @@
 remote_theme: niklasweimann/just-the-docs
 
+# the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rxtelegram.github.io"
+# the subpath of your site, e.g. /blog
+baseurl: "/" 
+
+# Enable or disable the site search
+search_enabled: true
+
 markdown: kramdown
 heading_anchors: true
 
