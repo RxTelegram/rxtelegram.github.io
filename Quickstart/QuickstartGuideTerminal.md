@@ -44,7 +44,7 @@ Just open up your Terminal in a new Folder and run the following commands.
                 var botClient = new TelegramBot ("ACCESS_TOKEN_HERE");
                 var me = botClient.GetMe().Result;
                 Console.WriteLine (
-                    $"Hello, World! I am user {me.Id} and my name is {me.FirstName}."
+                    $"Hello, World! I am bot number {me.Id}. My name is {me.FirstName}."
                 );
             }
         }
