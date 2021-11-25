@@ -14,7 +14,7 @@ nav_order: 3
 .Subscribe(next => { }, exception => { })
 ```
 
-Ab .netstandard 2.1 kannst du auch eine Schleife wie folgt aufbauen:
+As of .netstandard 2.1 you can also build a loop like this:
 ``` csharp
 await foreach (var message in Bot.Updates.MessageEnumerable())
 {
