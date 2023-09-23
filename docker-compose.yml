@@ -1,7 +1,7 @@
 version: '3'
 services:
     jekyll:
-        image: jekyll/jekyll:3.8.6
+        image: jekyll/jekyll:4.2.2
         environment:
             - JEKYILL_ENV=docker
         command: jekyll serve --host 0.0.0.0 --drafts --config _config.yml --watch --livereload --force_polling
