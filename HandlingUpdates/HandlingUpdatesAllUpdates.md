@@ -8,7 +8,7 @@ nav_order: 3
 # Getting all updates
 
 ## Basics
-.net unfortunately does not provide an implementation for the IObservable interface, so we recommend you to install the Nuget package System.Reactive.Core. This will allow you to subscribe to any IObservable interface provided by our library as follows.
+.net unfortunately does not provide an implementation for the IObservable interface, so we recommend you to install the Nuget package [System.Reactive](https://www.nuget.org/packages/System.Reactive/6.0.1-preview.1). This will allow you to subscribe to any IObservable interface provided by our library as follows.
 
 ``` csharp
 .Subscribe(next => { }, exception => { })
